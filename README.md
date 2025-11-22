@@ -82,6 +82,7 @@ PomodoroFocus_Project/
     ├── __init__.py
     ├── styles.py           # Custom CSS for Dark Theme
     └── analytics.py        # Matplotlib Rendering Logic
+```
 
 ⚡ Installation & Setup Guide
 Prerequisites
@@ -130,3 +131,4 @@ Gamification: Implementing "Streaks" and "Badges" to increase user motivation an
 License: MIT License.
 Methodology: Based on the Pomodoro Technique® by Francesco Cirillo.
 Tools: Built with Streamlit, Python, and SQLite.
+
